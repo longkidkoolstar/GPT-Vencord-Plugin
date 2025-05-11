@@ -1,0 +1,8 @@
+{
+  "name": "GPT-Vencord",
+  "version": "1.0.0",
+  "description": "Integrate with OpenRouter API to allow GPT-based models to respond on behalf of you in Discord chats",
+  "author": "Aria",
+  "license": "GPL-3.0",
+  "main": "index.tsx"
+}
