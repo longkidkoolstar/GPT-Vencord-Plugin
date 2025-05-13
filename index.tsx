@@ -56,8 +56,7 @@ const settings = definePluginSettings({
     model: {
         type: OptionType.SELECT,
         options: [
-            { label: "Google Gemini Flash 1.5 8B", value: "google/gemini-flash-1.5-8b-exp", default: true },
-            { label: "Google Gemini 2.0 Flash", value: "google/gemini-2.0-flash-exp:free" },
+            { label: "Google Gemini 2.0 Flash", value: "google/gemini-2.0-flash-exp:free", default: true },
             { label: "Reka Flash 3", value: "rekaai/reka-flash-3:free" },
         ],
         description: "Select the AI model to use (free models only)",

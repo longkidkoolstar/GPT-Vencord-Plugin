@@ -48,7 +48,6 @@ Click the AI button next to messages to generate a contextual response.
 
 This plugin only uses free models from OpenRouter:
 
-- Google Gemini Flash 1.5 8B
 - Google Gemini 2.0 Flash
 - Reka Flash 3
 
