@@ -50,6 +50,9 @@ This plugin only uses free models from OpenRouter:
 
 - Google Gemini 2.0 Flash
 - Reka Flash 3
+- Nous DeepHermes 3 Mistral 24B
+- Meta Llama 4 Maverick
+- Meta Llama 3.3 70B Instruct
 
 ## Privacy & Security
 

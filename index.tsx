@@ -58,6 +58,9 @@ const settings = definePluginSettings({
         options: [
             { label: "Google Gemini 2.0 Flash", value: "google/gemini-2.0-flash-exp:free", default: true },
             { label: "Reka Flash 3", value: "rekaai/reka-flash-3:free" },
+            { label: "Nous DeepHermes 3 Mistral 24B", value: "nousresearch/deephermes-3-mistral-24b-preview:free" },
+            { label: "Meta Llama 4 Maverick", value: "meta-llama/llama-4-maverick:free" },
+            { label: "Meta Llama 3.3 70B Instruct", value: "meta-llama/llama-3.3-70b-instruct:free" },
         ],
         description: "Select the AI model to use (free models only)",
     },
